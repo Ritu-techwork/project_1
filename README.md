@@ -361,7 +361,7 @@ Add the license of your choice (for example, MIT) by creating a `LICENSE` file i
 
 ## Author
 
-**Your Name**
+RITU SHARMA
 - GitHub: [@your-username](https://github.com/your-username)
 - LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
 
